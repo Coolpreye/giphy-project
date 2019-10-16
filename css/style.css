@@ -1,0 +1,14 @@
+.main {
+    margin-top: 3em;
+    max-width: 800px;
+    padding: 4em;
+}
+
+.message {
+    padding: 1em;
+    display: none;
+}
+
+.gif-image {
+    margin-top: 2em;
+}
